@@ -5,7 +5,7 @@
 
 ## Projeto individual de CRUD - PROJETO INTEGRADOR EXTENSIONISTA - ADS 3
 Professor:
-Prof. Douglas Rodrigues
+Douglas Rodrigues
 
 ## Critérios
 - Criação de sistema simplificado utilizando as tecnologias HTML, CSS, PHP e Banco de Dados SQL;
